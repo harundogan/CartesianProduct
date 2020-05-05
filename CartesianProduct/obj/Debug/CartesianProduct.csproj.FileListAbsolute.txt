@@ -1,0 +1,6 @@
+C:\Users\harundogann\source\repos\CartesianProduct\CartesianProduct\bin\Debug\CartesianProduct.exe.config
+C:\Users\harundogann\source\repos\CartesianProduct\CartesianProduct\bin\Debug\CartesianProduct.exe
+C:\Users\harundogann\source\repos\CartesianProduct\CartesianProduct\bin\Debug\CartesianProduct.pdb
+C:\Users\harundogann\source\repos\CartesianProduct\CartesianProduct\obj\Debug\CartesianProduct.csprojAssemblyReference.cache
+C:\Users\harundogann\source\repos\CartesianProduct\CartesianProduct\obj\Debug\CartesianProduct.exe
+C:\Users\harundogann\source\repos\CartesianProduct\CartesianProduct\obj\Debug\CartesianProduct.pdb
